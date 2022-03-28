@@ -1,0 +1,63 @@
+
+  .boton_derecho{
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 6px;
+    border: 2px solid #69ec11;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #8832eb;
+  }
+  .boton_derecho:hover{
+    color: #0cf546;
+    background-color: #f30808;
+  }
+  .boton_vulnerable{
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    border-radius: 6px;
+    border: 2px solid #fa04ee;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #1883ba;
+  }
+  .boton_vulnerable:hover{
+    color: #f1f509;
+    background-color: #e91b82;
+  }
+  .div{
+    text-align: center;
+  }
+  .iconosredes{
+    text-align: center;
+  }
+  .ajustesiconos{
+    display: inline-flex;
+    margin: 10px 15px;
+  }
+  .imagenicono{
+      width: 35px;
+      height: 35px;
+    }
+  
+  .textofooter{
+    padding-top: 8px;
+    width: 100%;
+    font-family: cursive;
+    text-align: center;
+    color: aliceblue;
+    font-size: 15px;
+    background-color: #8832eb;
+    height: 80px;
+  }
+
+  #columna {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+  }
+  #tMenu{
+    font-size: 25px;
+  }
